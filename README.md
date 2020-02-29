@@ -33,4 +33,8 @@
 
 ## Survey
 - [A survey on food computing](https://arxiv.org/abs/1808.07202) (ACM Computing Surveys, 2019)
+
 ## Demo
+
+## Contact
+If you have anything related in FoodAI and want to add in this repo, feel free to contact me at andrewzhu1216@gmail.com. 
