@@ -8,6 +8,7 @@
 - [Cookpad](https://dl.acm.org/doi/10.1145/3077136.3080686) (Janpanese recipes & food images)
 
 ## Recognition
+- [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](http://www.liangmingpan.com/files/publications/AAAI20_Paper.pdf) (AAAI, 2020)
 - [Mixed-dish Recognition with Contextual Relation Networks](http://staff.ustc.edu.cn/~hexn/papers/mm19-mixed-dish.pdf) (MM, 2019)
 - [Wide-Slice Residual Networks for Food Recognition](https://arxiv.org/abs/1612.06543) (WACV, 2018)
 - [Cross-modal Recipe Retrieval with Rich Food Attributes](http://vireo.cs.cityu.edu.hk/papers/jingjingmm2017.pdf) (MM, 2017)
@@ -25,7 +26,9 @@
 
 ## Generation
 - [CookGAN: Causality based Text-to-Image Synthesis](#) (CVPR, 2020)
+- [CookGAN: Meal Image Synthesis from Ingredients](http://openaccess.thecvf.com/content_WACV_2020/papers/Han_CookGAN_Meal_Image_Synthesis_from_Ingredients_WACV_2020_paper.pdf) (WACV, 2020)
 - [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164) (CVPR, 2019) [[code](https://github.com/facebookresearch/inversecooking)]
+- [How to make a pizza: Learning a compositional layer-based GAN model](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf) (CVPR, 2019)
 
 ## Recommendation
 
