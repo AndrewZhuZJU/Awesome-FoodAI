@@ -7,7 +7,7 @@
 - [ChineseFoodNet](https://sites.google.com/view/chinesefoodnet/) (208 food categories)
 - [Cookpad](https://dl.acm.org/doi/10.1145/3077136.3080686) (Janpanese recipes & food images)
 - [YouCook2](http://youcook2.eecs.umich.edu/) (Instructional video)
-- [EPIC-Kitchens] (https://epic-kitchens.github.io/2020-100) (Instructional video)
+- [EPIC-Kitchens](https://epic-kitchens.github.io/2020-100) (Instructional video)
 
 ## Recognition
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](http://www.liangmingpan.com/files/publications/AAAI20_Paper.pdf) (AAAI, 2020)
@@ -35,10 +35,10 @@
 
 ## Instructional Video Analysis
 - [Action Modifiers: Learning from Adverbs in Instructional Videos](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf) (CVPR, 2020)
--[Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) (CVPR, 2020)
--[DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perrett_DDLSTM_Dual-Domain_LSTM_for_Cross-Dataset_Action_Recognition_CVPR_2019_paper.pdf) (CVPR, 2019)
+- [Multi-Modal Domain Adaptation for Fine-Grained Action Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Munro_Multi-Modal_Domain_Adaptation_for_Fine-Grained_Action_Recognition_CVPR_2020_paper.pdf) (CVPR, 2020)
+- [DDLSTM: Dual-Domain LSTM for Cross-Dataset Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perrett_DDLSTM_Dual-Domain_LSTM_for_Cross-Dataset_Action_Recognition_CVPR_2019_paper.pdf) (CVPR, 2019)
 - [Towards Automatic Learning of Procedures from Web Instructional Videos](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17344/16367) (AAAI, 2018)
-- [Scaling Egocentric Vision:The EPIC-KITCHENS Dataset] (https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf) (ECCV, 2018)
+- [Scaling Egocentric Vision:The EPIC-KITCHENS Dataset](https://openaccess.thecvf.com/content_ECCV_2018/papers/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.pdf) (ECCV, 2018)
 - [CVF Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf) (CVPR, 2018)
 - [Unsupervised Visual-Linguistic Reference Resolution in Instructional Videos](https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Unsupervised_Visual-Linguistic_Reference_CVPR_2017_paper.pdf) (CVPR, 2017)
 
