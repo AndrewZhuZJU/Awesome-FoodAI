@@ -10,13 +10,16 @@
 - [EPIC-Kitchens](https://epic-kitchens.github.io/2020-100) (Instructional video)
 
 ## Recognition
+- [Multi-Scale Multi-View Deep Feature Aggregation for Food Recognition](http://vipl.ict.ac.cn/homepage/jsq/publication/2019-Min-TIP-Multi-scale.pdf) (TIP, 2020)
 - [Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network](http://www.liangmingpan.com/files/publications/AAAI20_Paper.pdf) (AAAI, 2020)
+- [FoodAI: Food Image Recognition via Deep Learning for Smart Food Logging](https://arxiv.org/pdf/1909.11946.pdf) (KDD, 2019)
 - [Mixed-dish Recognition with Contextual Relation Networks](http://staff.ustc.edu.cn/~hexn/papers/mm19-mixed-dish.pdf) (MM, 2019)
 - [Wide-Slice Residual Networks for Food Recognition](https://arxiv.org/abs/1612.06543) (WACV, 2018)
 - [Cross-modal Recipe Retrieval with Rich Food Attributes](http://vireo.cs.cityu.edu.hk/papers/jingjingmm2017.pdf) (MM, 2017)
 - [Deep-based Ingredient Recognition for Cooking Recipe Retrieva](http://vireo.cs.cityu.edu.hk/jingjing/papers/chen2016deep.pdf) (MM, 2016)
 
 ## Retrieval
+- [MCEN: Bridging Cross-Modal Gap between Cooking Recipes and Dish Images with Latent Variable Model](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_MCEN_Bridging_Cross-Modal_Gap_between_Cooking_Recipes_and_Dish_Images_CVPR_2020_paper.pdf) (CVPR, 2020)
 - [Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf) (CVPR, 2019)[[code](https://github.com/hwang1996/ACME)]
 - [R2GAN: Cross-modal Recipe Retrieval with Generative Adversarial Network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf) (CVPR, 2019)
 - [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://arxiv.org/abs/1804.11146) (SIGIR, 2018) [[code](https://github.com/Cadene/recipe1m.bootstrap.pytorch)]
