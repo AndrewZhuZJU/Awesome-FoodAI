@@ -25,8 +25,9 @@
 - [Cross-modal Recipe Retrieval: How to Cook This Dish?](http://vireo.cs.cityu.edu.hk/allpage.files/paper_jingjing_MMM17.pdf) (MMM, 2017)
 
 ## Generation
-- [CookGAN: Causality based Text-to-Image Synthesis](#) (CVPR, 2020)
+- [CookGAN: Causality based Text-to-Image Synthesis](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_CookGAN_Causality_Based_Text-to-Image_Synthesis_CVPR_2020_paper.pdf) (CVPR, 2020)
 - [CookGAN: Meal Image Synthesis from Ingredients](http://openaccess.thecvf.com/content_WACV_2020/papers/Han_CookGAN_Meal_Image_Synthesis_from_Ingredients_WACV_2020_paper.pdf) (WACV, 2020)
+- [The art of food: Meal image synthesis from ingredients][https://arxiv.org/pdf/1905.13149.pdf]
 - [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164) (CVPR, 2019) [[code](https://github.com/facebookresearch/inversecooking)]
 - [How to make a pizza: Learning a compositional layer-based GAN model](http://openaccess.thecvf.com/content_CVPR_2019/papers/Papadopoulos_How_to_Make_a_Pizza_Learning_a_Compositional_Layer-Based_GAN_CVPR_2019_paper.pdf) (CVPR, 2019)
 
